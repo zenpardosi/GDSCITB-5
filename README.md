@@ -3,6 +3,6 @@ GDSCITB-Kelompok5
 
 List Member:
 
-<a href="https://github.com/rahmat-wi">1. Rahmat Wibowo</a>
-<p><a href="https://github.com/dionpouw">2. Aldion Sumampouw</a></p>
+1. <a href="https://github.com/rahmat-wi">Rahmat Wibowo</a>
+2. <p><a href="https://github.com/dionpouw">Aldion Sumampouw</a></p>
 
